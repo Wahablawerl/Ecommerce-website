@@ -3,4 +3,4 @@
 
 This is responsive e-commerce website  created using html,css and javascript.
 
-live demo [click here](cara-ecomme.netlify.app)
+live demo [click here](https://cara-ecomme.netlify.app/)
